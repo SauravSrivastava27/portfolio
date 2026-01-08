@@ -1,16 +1,63 @@
-# React + Vite
+# Saurav Srivastava - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Tech Stack](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,python,aws)
 
-Currently, two official plugins are available:
+A high-performance, responsive portfolio website designed with a **Technical Minimalist** aesthetic. Built to showcase expertise in Data Engineering and Front-End Development, this project leverages modern web technologies to deliver a fast, clean, and engineering-focused user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Systems & Technologies
 
-## React Compiler
+This "Digital Resume" is built using:
+- **Core**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) (Pure utility-first approach)
+- **Typography**: `Inter` (Sans) + `JetBrains Mono` (Code/Technical accents)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 Author Profile
 
-## Expanding the ESLint configuration
+**Saurav Srivastava**  
+*Data Engineer / Front-End Developer*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**8+ years** of combined experience in building scalable data pipelines, automating workflows, and developing responsive web applications. Specialized in bridging the gap between complex backend data systems and intuitive frontend user experiences.
+
+### Technical Arsenal
+*   **Front-End**: React, JavaScript (ES6+), HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS.
+*   **Data Engineering**: Snowflake, Apache Airflow, Apache NiFi, Python, SQL, Incremental Loads.
+*   **Cloud & DevOps**: AWS (EKS, S3, EC2), CI/CD (Harness), Git, JIRA.
+*   **Security**: GPG Encryption, Key Management, Secure File Ops.
+
+### Professional Journey
+*   **Accenture Solutions Pvt. Ltd** (2021 - Present)
+    *   *Key Projects*: Marriott International (Food & Beverages, Growth Project), Silicon Valley Bank.
+    *   *Focus*: End-to-end data integration, Python automation, Microservices on EKS, Full-stack development.
+*   **Humane Business Intelligence Technology Solutions** (2017 - 2021)
+    *   *Key Projects*: Galen Growth Asia, Institute of Behavioural Training.
+    *   *Focus*: HealthTech analytics platforms, UI component development, API integration.
+
+## 🛠️ Local Setup
+
+1.  **Clone the repository**
+    ```bash
+    git clone <repository-url>
+    cd portfolio
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run Development Server**
+    ```bash
+    npm run dev
+    ```
+    Visit `http://localhost:5173` to view the application.
+
+4.  **Build for Production**
+    ```bash
+    npm run build
+    ```
+
+## 📬 Contact
+*   **Email**: saurav.srivastava27@outlook.com
+*   **LinkedIn**: [saurav-srivastava](https://linkedin.com/in/saurav-srivastava)
+*   **Location**: India
