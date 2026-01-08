@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* Main CSS with Tailwind Directives should be managed via src/tailwind.css or configured via postcss-import. 
+   Since we have separate tailwind.css, we use this for global overrides only. 
+*/
+
+:root {
+    --bg-color: #ffffff;
+    --grid-color: rgba(0, 0, 0, 0.04);
+}
+
+body {
+    background-color: var(--bg-color);
+    background-image: linear-gradient(var(--grid-color) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+    background-size: 24px 24px;
+    font-family: 'Inter', sans-serif;
+    color: #18181b;
+    /* Zinc-900 */
+}
+
+/* Utilities */
+.font-mono {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.technical-border {
+    border: 1px solid #e4e4e7;
+    /* Zinc-200 */
+}
+
+.technical-shadow {
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Custom Selection Color */
+::selection {
+    background: #000;
+    color: #fff;
+}
