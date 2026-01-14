@@ -60,4 +60,4 @@ This "Digital Resume" is built using:
 ## 📬 Contact
 *   **Email**: saurav.srivastava27@outlook.com
 *   **LinkedIn**: [saurav-srivastava](https://linkedin.com/in/saurav-srivastava)
-*   **Location**: India
+*   **Location**: Pune, Maharashtra, India
